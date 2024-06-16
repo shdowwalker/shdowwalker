@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sashika Piyumal</h1>
 <h3 align="center">First-Year Software Engineering Student | Seeking Internship Opportunities</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shdowwalker&label=Profile%20views&color=0e75b6&style=flat" alt="shdowwalker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-lak&label=Profile%20views&color=0e75b6&style=flat" alt="shdowwalker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shdowwalker" alt="shdowwalker" /></a> </p>
 
